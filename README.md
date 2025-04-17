@@ -8,8 +8,11 @@ Data Analyst @Tata Consultancy Services
 
 ### Projects
 Campus Compass
+
 Using AdaFace for Recognition & Image Classification
+
 Washington State Electric Vehicle Analysis                                                                                                                                       
+
 Adidas Sales Performance Dashboard
 
 
